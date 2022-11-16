@@ -38,5 +38,6 @@ everything else on the mirror, and in different colors.
 
 <img src= "https://github.com/carsonmires/p2.carson.mires/blob/main/mirror code pic.jpg" width=25% height=25%>
 
+As well as GIF of my code here:
 
 <img src= "https://github.com/carsonmires/p2.carson.mires/blob/main/mirror design gif.gif" width=25% height=25%>
