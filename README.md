@@ -40,4 +40,4 @@ everything else on the mirror, and in different colors.
 
 As well as GIF of my code here:
 
-![Mirror Gif](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirrordesign.gif)
+![Mirror Gif](https://raw.githubusercontent.com/carsonmires/p2.carson.mires/main/mirror_crop.gif)
