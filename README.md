@@ -5,6 +5,7 @@
 ### Links
 
 [Presentation Page]()
+
 [Github Repo](https://github.com/carsonmires/p2.carson.mires)
 -------------------------------------------------------------------------------------------------------------------------------
 In my smart mirror, I wanted to include some of the main functions that I feel like a mirror would have
