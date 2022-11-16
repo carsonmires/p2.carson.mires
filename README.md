@@ -26,7 +26,7 @@ This is then followed by the weather in the bottom left, which includes your cur
 as well as the forecast for later in the day.
 There is a news feed at the bottom in smaller text, because to me this isn't as important as some of the other things. Lastly, the weight in lbs is in the bottom right.
 
-SKETCH HERE
+<img src= "https://github.com/carsonmires/p2.carson.mires/blob/main/mirror sketch.jpg" width=25% height=25%>
 
 
 ------------------------------------------------------------------------------------------------------------------------------
