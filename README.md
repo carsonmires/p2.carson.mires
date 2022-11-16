@@ -35,7 +35,7 @@ There is a news feed at the bottom in smaller text, because to me this isn't as 
 In my code implementation, I followed my sketch for the most part, and I made each section of the mirror that has information easily discernable from
 everything else on the mirror, and in different colors.
 
-PICTURE HERE
+<img src= "https://github.com/carsonmires/p2.carson.mires/blob/main/mirror code pic.jpg" width=25% height=25%>
 
 
-GIF HERE
+<img src= "https://github.com/carsonmires/p2.carson.mires/blob/main/mirror design gif.gif" width=25% height=25%>
